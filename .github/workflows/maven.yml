@@ -22,3 +22,10 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
+    - name: Print the CICD
+      run: |
+        echo "this is my CICD"
+        echo "ls -la"
+
+
+
