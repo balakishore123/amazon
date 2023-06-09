@@ -27,6 +27,7 @@ jobs:
         echo "this is my CICD"
         pwd
         ls -la
+        java -version
 
 
 
