@@ -28,6 +28,7 @@ jobs:
         pwd
         ls -la
         java -version
+        mvn -version
 
 
 
