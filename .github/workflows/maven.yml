@@ -25,7 +25,8 @@ jobs:
     - name: Print the CICD
       run: |
         echo "this is my CICD"
-        echo "ls -la"
+        pwd
+        ls -la
 
 
 
